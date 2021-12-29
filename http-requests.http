@@ -1,0 +1,12 @@
+# for https://youtrack.jetbrains.com/issue/IDEA-285909
+###simple string output
+GET http://localhost:8080/supersimple
+
+# for https://youtrack.jetbrains.com/issue/IDEA-285912
+###with pathvar
+GET http://localhost:8080/simple/fooo
+
+# for https://youtrack.jetbrains.com/issue/IDEA-285908
+###handler method
+GET http://localhost:8080/test2
+
